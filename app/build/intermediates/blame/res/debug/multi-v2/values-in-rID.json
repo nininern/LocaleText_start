@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\college\\Sem 4\\P.PAB 2\\android-advanced-starter-apps-master\\LocaleText_start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in-rID\\values-in-rID.xml",
+            "map": [
+                {
+                    "source": "D:\\college\\Sem 4\\P.PAB 2\\android-advanced-starter-apps-master\\LocaleText_start\\app\\src\\main\\res\\values-in-rID\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,6,7,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "106,57,155,512,586,456",
+                        "endColumns": "47,47,299,72,43,54",
+                        "endOffsets": "149,100,450,580,625,506"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,103,151,451,524,568",
+                        "endColumns": "47,47,299,72,43,54",
+                        "endOffsets": "98,146,446,519,563,618"
+                    }
+                }
+            ]
+        }
+    ]
+}
